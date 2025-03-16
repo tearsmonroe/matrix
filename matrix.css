@@ -120,9 +120,9 @@ html, body {
 
     line-height: 1.6;
 
-    font-size: 15px;
+    font-size: 20px;
 
-    color: aqua;
+    color: red;
 
 }
 
@@ -172,7 +172,7 @@ h2 {
 
   text-transform: lowercase;
 
-  color: yellow;
+  color: red;
 
 }
 
@@ -190,9 +190,9 @@ li {
 
   text-transform: lowercase;
 
-  color: yellow;
+  color: red;
 
-  font-size: 18px;
+  font-size: 20px;
 
 }
 
@@ -244,9 +244,9 @@ button:focus {
 
     color: #FFF;
 
-    background-color: #6c63ff;
+    background-color: red;
 
-    font-size: 18px;
+    font-size: 20px;
 
 }
 
@@ -262,9 +262,9 @@ border: 0;
 
     color: #FFF;
 
-    background-color: white;
+    background-color: red;
 
-    font-size: 18px;
+    font-size: 20px;
 
 }
 
@@ -280,9 +280,9 @@ border: 0;
 
     color: #FFF;
 
-    background-color: white;
+    background-color: red;
 
-    font-size: 18px;
+    font-size: 20px;
 
 }
 
@@ -322,7 +322,7 @@ border: 0;
 
     font-size: 20px;
 
-    color: orange;
+    color: red;
 
 
     }
